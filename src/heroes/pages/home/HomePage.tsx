@@ -1,10 +1,5 @@
 import {
-  Search,
-  Plus,
-  Filter,
-  SortAsc,
   Heart,
-  Grid,
   Zap,
   Eye,
   Brain,
